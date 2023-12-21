@@ -1,3 +1,4 @@
 # Ignora os arquivos csv
+
 data/dataset_chromecast.csv
 data/dataset_smart-tv.csv
